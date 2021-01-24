@@ -1,2 +1,2 @@
 # streamlit-analytics
-Workbook for streamlit Analytics Ep.01
+Workbook for streamlit Analytics Part1
