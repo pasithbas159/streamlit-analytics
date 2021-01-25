@@ -4,7 +4,7 @@ import seaborn as sns
 import numpy as np
 import streamlit as st
 
-PATH = './Overbuff_scraped_24-05-2020.csv'
+PATH = 'Overbuff_scraped_24-05-2020.csv'
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.title("Overwatch hero statistics 2020")
