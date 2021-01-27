@@ -12,6 +12,7 @@ st.write("""
 ## From Overbuff
 sources: [Overwatch hero statistics](https://www.kaggle.com/jamesryanralph/overwatch-hero-stats?select=Overbuff_scraped_24-05-2020.csv)
 """)
+st.image("OW_heroes.png")
 
 df = pd.read_csv(PATH, encoding='latin1')
 df = df.drop(["Unnamed: 0"], axis=1)
